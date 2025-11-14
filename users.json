@@ -1,0 +1,72 @@
+{
+  "users": {
+    "111": {
+      "password": "111",
+      "created": 1763051220.3672519,
+      "character": "Tank",
+      "current_maze": 1,
+      "maze_seeds": {
+        "1": 979257,
+        "2": 858447
+      },
+      "x": null,
+      "y": null,
+      "health": 200,
+      "lives": 3,
+      "points": 1073,
+      "materials": {
+        "wood": 14,
+        "rope": 9,
+        "metal": 5,
+        "sail": 2
+      },
+      "completed_quizzes": [
+        "maze1_quiz_3_13",
+        "e12",
+        "maze1_quiz_17_5",
+        "e10",
+        "maze1_quiz_5_6",
+        "a8",
+        "maze2_quiz_1_6",
+        "a9",
+        "maze2_quiz_3_10",
+        "a4",
+        "maze2_quiz_13_1",
+        "a3"
+      ],
+      "achievements": [],
+      "kills": 16,
+      "wins": 6,
+      "total_items": 30,
+      "high_score": 1073,
+      "enemies_state": [],
+      "in_boss_fight": false
+    },
+    "123": {
+      "password": "123",
+      "created": 1763133585.7951093,
+      "character": "Assassin",
+      "current_maze": 1,
+      "maze_seeds": {},
+      "x": null,
+      "y": null,
+      "health": 80,
+      "lives": 3,
+      "points": 1816,
+      "materials": {
+        "wood": 0,
+        "rope": 0,
+        "metal": 0,
+        "sail": 0
+      },
+      "completed_quizzes": [],
+      "achievements": [],
+      "kills": 28,
+      "wins": 1,
+      "total_items": 50,
+      "high_score": 651,
+      "enemies_state": [],
+      "in_boss_fight": false
+    }
+  }
+}
