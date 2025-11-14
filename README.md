@@ -7,8 +7,8 @@ ProVenture is an educational maze adventure game where players choose characters
 2. Install required libraries following these steps:
    - Open command prompt or terminal
    - Run these commands one by one:
-     " pip install pygame "
-     " pip install pillow "
+        - " pip install pygame "
+        - " pip install pillow "
 3. Download the game files and ensure all resources are in the resources folder
 4. Run the game
 
